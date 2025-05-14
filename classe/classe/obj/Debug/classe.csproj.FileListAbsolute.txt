@@ -1,0 +1,15 @@
+C:\CODES\classe\classe\bin\Debug\classe.exe.config
+C:\CODES\classe\classe\bin\Debug\classe.exe
+C:\CODES\classe\classe\bin\Debug\classe.pdb
+C:\CODES\classe\classe\obj\Debug\classe.csproj.AssemblyReference.cache
+C:\CODES\classe\classe\obj\Debug\MainWindow.g.cs
+C:\CODES\classe\classe\obj\Debug\App.g.cs
+C:\CODES\classe\classe\obj\Debug\classe_MarkupCompile.cache
+C:\CODES\classe\classe\obj\Debug\classe_MarkupCompile.lref
+C:\CODES\classe\classe\obj\Debug\MainWindow.baml
+C:\CODES\classe\classe\obj\Debug\classe.g.resources
+C:\CODES\classe\classe\obj\Debug\classe.Properties.Resources.resources
+C:\CODES\classe\classe\obj\Debug\classe.csproj.GenerateResource.cache
+C:\CODES\classe\classe\obj\Debug\classe.csproj.CoreCompileInputs.cache
+C:\CODES\classe\classe\obj\Debug\classe.exe
+C:\CODES\classe\classe\obj\Debug\classe.pdb
